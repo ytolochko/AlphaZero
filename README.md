@@ -1,5 +1,5 @@
 # AlphaZero
-AlphaZero RL algorithm, ["Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm"] (https://arxiv.org/abs/1712.01815), implemented for [Blokus] (https://en.wikipedia.org/wiki/Blokus) game.
+AlphaZero RL algorithm, ["Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm"](https://arxiv.org/abs/1712.01815), implemented for [Blokus](https://en.wikipedia.org/wiki/Blokus) game.
 ## Requirements
 * Python 3
 * Numpy
