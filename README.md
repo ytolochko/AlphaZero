@@ -6,4 +6,4 @@ AlphaZero RL algorithm, ["Mastering Chess and Shogi by Self-Play with a General 
 * Tensorflow (not tested on 2.0, e.g. 1.14)
 
 ## Credit assignment
-Portion of network definition and MCTS algorithm code was taken from [here] (https://github.com/blanyal/alpha-zero)
+Portion of network definition and MCTS algorithm code was taken from [here](https://github.com/blanyal/alpha-zero)
